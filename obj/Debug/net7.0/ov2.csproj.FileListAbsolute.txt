@@ -1,0 +1,14 @@
+C:\yes\ov2\obj\Debug\net7.0\ov2.GeneratedMSBuildEditorConfig.editorconfig
+C:\yes\ov2\obj\Debug\net7.0\ov2.AssemblyInfoInputs.cache
+C:\yes\ov2\obj\Debug\net7.0\ov2.AssemblyInfo.cs
+C:\yes\ov2\obj\Debug\net7.0\ov2.csproj.CoreCompileInputs.cache
+C:\yes\ov2\bin\Debug\net7.0\ov2.exe
+C:\yes\ov2\bin\Debug\net7.0\ov2.deps.json
+C:\yes\ov2\bin\Debug\net7.0\ov2.runtimeconfig.json
+C:\yes\ov2\bin\Debug\net7.0\ov2.dll
+C:\yes\ov2\bin\Debug\net7.0\ov2.pdb
+C:\yes\ov2\obj\Debug\net7.0\ov2.dll
+C:\yes\ov2\obj\Debug\net7.0\refint\ov2.dll
+C:\yes\ov2\obj\Debug\net7.0\ov2.pdb
+C:\yes\ov2\obj\Debug\net7.0\ov2.genruntimeconfig.cache
+C:\yes\ov2\obj\Debug\net7.0\ref\ov2.dll
